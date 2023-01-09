@@ -5,7 +5,7 @@
 
 - I took full stack data analytics certification at <a href="https://certificates.revou.co/reno-bramantyo-ramadhan-certificate-completion-fsda21.pdf" target="RevoU">RevoU</a>. I was Chosen to be a student representative 👨‍🎓 for a direct presentation to the instructor regarding the advance assignment for these August 2022 – December 2022 two topics: <a href="https://docs.google.com/spreadsheets/d/13D-KgeznIykhOGdIbzzzN-aiVUVmkbwuVYOQ5Kk3go8/edit?usp=sharing" target="Understanding Business Problems">Understanding Business Problems</a>  & <a href="https://drive.google.com/file/d/1r95CPsx0Xdjy6EPXlUw_oQkKEpQCPjn-/view?usp=share_link" target="SQL">SQL</a>.
 
-- 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/1xRDlQVp58NhPAPYdg5CoDqK8wZ6KsWBA/view?usp=share_link" target="Here">Here</a>
+- 👨‍💻 Check out my portfolio <a href="https://drive.google.com/file/d/1xRDlQVp58NhPAPYdg5CoDqK8wZ6KsWBA/view?usp=share_link" target="Here">Here</a>
 
 - 📫 You can reach me via email --> **renobramadhan@gmail.com**
 
